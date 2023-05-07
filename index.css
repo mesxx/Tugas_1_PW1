@@ -1,0 +1,52 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.logo {
+  width: 60%;
+}
+
+.row {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.col {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.title {
+  margin-top: 20px;
+}
+
+.danger {
+  color: red;
+  font-weight: bold;
+}
+
+.primary {
+  color: blue;
+  font-weight: bold;
+}
+
+.success {
+  color: green;
+  font-weight: bold;
+}
+
+.inc-margin {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
